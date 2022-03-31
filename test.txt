@@ -1,1 +1,2 @@
 bu bir text dosyasidir
+bu satir vim ile eklendi
