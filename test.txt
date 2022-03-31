@@ -1,2 +1,3 @@
 bu bir text dosyasidir
 bu satir vim ile eklendi
+3. satiri da vim ile yazdim
